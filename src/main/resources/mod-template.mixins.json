@@ -4,6 +4,7 @@
   "package": "com.peasenet.mixins",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "MixinBiome"
   ],
   "client": [
   ],
