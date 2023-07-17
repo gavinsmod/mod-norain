@@ -14,7 +14,7 @@ public class NoRainMod implements ModInitializer {
      */
     @Override
     public void onInitialize() {
-        LOGGER.info("Hello Fabric world!");
+        LOGGER.info("Initializing GEM No Rain...");
         GavinsMod.addMod(new ModNoRain());
     }
 }
